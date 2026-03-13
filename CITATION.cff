@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as follows."
+title: "freightscaler-research"
+type: software
+authors:
+  - family-names: "Im"
+    given-names: "Yunseop"
+repository-code: "https://github.com/OpengroundINTEL/freightscaler-research"
+license: "MIT"
